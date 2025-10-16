@@ -1,16 +1,33 @@
-# app_api
+# Flutter API Integration
 
-A new Flutter project.
+A Flutter project demonstrating seamless API integration, including networking, JSON parsing, state management, and dynamic data rendering from remote sources.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Fetches data from REST APIs  
+- JSON serialization and deserialization  
+- Displays data dynamically in Flutter UI  
+- Includes error handling and loading indicators  
+- Provides a modular and scalable architecture  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Follow these steps to set up the project locally.
+
+### Prerequisites
+Ensure you have Flutter installed. To verify:
+flutter doctor
+
+### Clone the Repository
+git clone https://github.com/hoodi1/Flutter-API-Integration.git
+cd Flutter-API-Integration
+
+### Install Dependencies
+flutter pub get
+
+### Run the App
+flutter run
+
+---
